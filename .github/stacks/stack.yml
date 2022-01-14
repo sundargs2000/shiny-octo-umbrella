@@ -9,3 +9,4 @@ configs:
     parameters:
       topics:
         - rails
+        - raaails
