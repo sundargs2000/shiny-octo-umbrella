@@ -8,4 +8,4 @@ configs:
   repo-metadata:
     parameters:
       topics:
-        - blue
+        - yellow
