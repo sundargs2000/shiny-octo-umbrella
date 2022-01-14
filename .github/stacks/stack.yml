@@ -3,3 +3,9 @@ description: This is a stack to create a stack.
 branding:
   icon: layers
   color: blue
+
+configs:
+  repo-metadata:
+    parameters:
+      topics:
+        - rails
